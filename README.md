@@ -1,5 +1,3 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
-
 # Testando renderização de componentes com react testing library
 
 Nesse vídeo vamos falar sobre testes de renderização de componentes com React Testing Library e Jest.
